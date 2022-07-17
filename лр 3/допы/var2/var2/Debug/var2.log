@@ -1,0 +1,4 @@
+﻿  var2.cpp
+E:\1yniver\2sem\ОАП\лр 3\допы\var2\var2\var2.cpp(25,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\1yniver\2sem\ОАП\лр 3\допы\var2\var2\var2.cpp(15,6): warning C4101: k: неиспользованная локальная переменная
+  var2.vcxproj -> E:\1yniver\2sem\ОАП\лр 3\допы\var2\Debug\var2.exe

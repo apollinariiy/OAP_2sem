@@ -1,0 +1,25 @@
+6
+D
+Minsk
+Nervous system
+30
+A
+Brest
+Respiratory organs
+40
+B
+Gomel
+Nervous system
+50
+C
+Vitebsk
+Skin diseases
+400
+F
+Mogilev
+Respiratory organs
+20
+E
+Grodno
+Skin diseases
+50

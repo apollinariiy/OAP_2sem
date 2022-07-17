@@ -1,0 +1,26 @@
+﻿Сборка начата 07.04.2022 1:01:46.
+Уровень детализации журнала: Normal.     1>Проект "E:\1yniver\2sem\ОАП\лр 8\dop\dop\dop.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\dop.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt dop.cpp
+         dop.cpp
+     1>E:\1yniver\2sem\ОАП\лр 8\dop\dop\dop.cpp(37,9): warning C4101: p: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1yniver\2sem\ОАП\лр 8\dop\Debug\dop.exe" /INCREMENTAL /ILK:"Debug\dop.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\1yniver\2sem\ОАП\лр 8\dop\Debug\dop.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1yniver\2sem\ОАП\лр 8\dop\Debug\dop.lib" /MACHINE:X86 Debug\dop.obj
+         dop.vcxproj -> E:\1yniver\2sem\ОАП\лр 8\dop\Debug\dop.exe
+       FinalizeBuildStatus:
+         Файл "Debug\dop.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\dop.tlog\dop.lastbuildstate".
+     1>Сборка проекта "E:\1yniver\2sem\ОАП\лр 8\dop\dop\dop.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\1yniver\2sem\ОАП\лр 8\dop\dop\dop.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\1yniver\2sem\ОАП\лр 8\dop\dop\dop.cpp(37,9): warning C4101: p: неиспользованная локальная переменная
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:02.07

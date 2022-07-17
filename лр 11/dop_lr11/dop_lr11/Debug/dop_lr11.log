@@ -1,0 +1,28 @@
+﻿Сборка начата 14.04.2022 0:14:54.
+Уровень детализации журнала: Normal.     1>Проект "E:\1yniver\2sem\ОАП\лр 11\dop_lr11\dop_lr11\dop_lr11.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\dop_lr11.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt dop_lr11.cpp
+         dop_lr11.cpp
+     1>E:\1yniver\2sem\ОАП\лр 11\dop_lr11\dop_lr11\dop_lr11.cpp(25,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>E:\1yniver\2sem\ОАП\лр 11\dop_lr11\dop_lr11\dop_lr11.cpp(29,8): warning C4101: ver: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1yniver\2sem\ОАП\лр 11\dop_lr11\Debug\dop_lr11.exe" /INCREMENTAL /ILK:"Debug\dop_lr11.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\1yniver\2sem\ОАП\лр 11\dop_lr11\Debug\dop_lr11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1yniver\2sem\ОАП\лр 11\dop_lr11\Debug\dop_lr11.lib" /MACHINE:X86 Debug\dop_lr11.obj
+         dop_lr11.vcxproj -> E:\1yniver\2sem\ОАП\лр 11\dop_lr11\Debug\dop_lr11.exe
+       FinalizeBuildStatus:
+         Файл "Debug\dop_lr11.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\dop_lr11.tlog\dop_lr11.lastbuildstate".
+     1>Сборка проекта "E:\1yniver\2sem\ОАП\лр 11\dop_lr11\dop_lr11\dop_lr11.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\1yniver\2sem\ОАП\лр 11\dop_lr11\dop_lr11\dop_lr11.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\1yniver\2sem\ОАП\лр 11\dop_lr11\dop_lr11\dop_lr11.cpp(25,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         E:\1yniver\2sem\ОАП\лр 11\dop_lr11\dop_lr11\dop_lr11.cpp(29,8): warning C4101: ver: неиспользованная локальная переменная
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.71

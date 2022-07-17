@@ -1,0 +1,32 @@
+﻿Сборка начата 12.05.2022 16:45:20.
+Уровень детализации журнала: Normal.     1>Проект "E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\dop2_16.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt dop2_16.cpp
+         dop2_16.cpp
+     1>E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(16,18): warning C4101: tmp: неиспользованная локальная переменная
+     1>E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(16,15): warning C4101: k: неиспользованная локальная переменная
+     1>E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(16,12): warning C4101: j: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\Debug\dop2_16.exe" /INCREMENTAL /ILK:"Debug\dop2_16.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\Debug\dop2_16.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\Debug\dop2_16.lib" /MACHINE:X86 Debug\dop2_16.obj
+         dop2_16.vcxproj -> E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\Debug\dop2_16.exe
+       FinalizeBuildStatus:
+         Файл "Debug\dop2_16.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\dop2_16.tlog\dop2_16.lastbuildstate".
+     1>Сборка проекта "E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(16,18): warning C4101: tmp: неиспользованная локальная переменная
+         E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(16,15): warning C4101: k: неиспользованная локальная переменная
+         E:\1yniver\2sem\ОАП\лр 16\osnova_lab16\dop2_16\dop2_16.cpp(16,12): warning C4101: j: неиспользованная локальная переменная
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:01.28

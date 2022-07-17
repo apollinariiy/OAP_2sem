@@ -1,0 +1,4 @@
+﻿  lab03_1_2.cpp
+E:\1yniver\2sem\ОАП\лр 3\ConsoleApplication1\lab03_1_2\lab03_1_2.cpp(21,6): warning C4101: c: неиспользованная локальная переменная
+E:\1yniver\2sem\ОАП\лр 3\ConsoleApplication1\lab03_1_2\lab03_1_2.cpp(20,21): warning C4101: SequenceNum: неиспользованная локальная переменная
+  lab03_1_2.vcxproj -> E:\1yniver\2sem\ОАП\лр 3\ConsoleApplication1\Debug\lab03_1_2.exe

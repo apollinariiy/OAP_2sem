@@ -1,0 +1,23 @@
+3
+Denisuk Ivan Sergeevich
+4
+OAP
+5
+OIT
+4
+FIZ
+4
+Sever Alexandra Sergeevna
+3
+OAP
+3
+OIT
+5
+FIZ
+5
+Miklayeva Anna Timofeevna
+4
+OAP
+4
+OIT
+5
